@@ -39,7 +39,7 @@ Python | Java | C | JavaScript / TypeScript | SQL | Go |
 Django | Flask | Angular | Node.js | Spring | Bootstrap | .NET Entity Framework 
 
 ### 🔧 Tools & Platforms:
-Docker | Firebase | Git | GitHub | AWS | Pentaho | Talend | Cisco | Power BI  *(optional)*
+Docker | Firebase | Git | GitHub | AWS | Pentaho | Talend | Cisco | Power BI  
 
 ### 📊 Data & ML Tools:
 Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn 

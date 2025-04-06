@@ -49,7 +49,7 @@ Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
 ## 📜 Certifications:
 
 
-*(You can list online course certificates, cloud certifications, etc.)*
+
 
 ---
 

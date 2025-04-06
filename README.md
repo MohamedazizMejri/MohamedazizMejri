@@ -33,7 +33,7 @@ I’m particularly interested in:
 ## 💻 Tech Stack:
 
 ### 🛠️ Languages:
-Python | Java | C | JavaScript / TypeScript | SQL | Go | *(optional)*
+Python | Java | C | JavaScript / TypeScript | SQL | Go |
 
 ### ⚙️ Frameworks & Libraries:
 Django | Flask | Angular | Node.js | Spring | Bootstrap | .NET Entity Framework 

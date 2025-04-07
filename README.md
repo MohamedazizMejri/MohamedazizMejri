@@ -69,8 +69,7 @@ I’m particularly interested in:
 
 
 
-### 📊 Data & ML Tools:
-Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn 
+### 📊 Data & ML Tools: 
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)

@@ -1,6 +1,6 @@
-## Hi there 👋 , my name is Aziz
+# Hi there 👋 , my name is Aziz
 I'm a Software Engineering student, with a strong interest in  data science, web development, and building intelligent systems.
-📫 Reach out via email: mejria817@gmail.com
+- 📫 Reach out via email: mejria817@gmail.com
 
 ---
 

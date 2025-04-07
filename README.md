@@ -13,7 +13,7 @@ I'm a Software Engineering student, with a strong interest in  data science, web
 
 ---
 
-## 💫 About Me:
+# 💫 About Me:
 I'm a motivated Software Engineering student passionate about solving real-world problems through technology. I enjoy creating clean, efficient, and impactful systems—whether it’s an AI-powered tool,a smart IoT solution,  or a user-friendly web app.
 
 I’m particularly interested in:
@@ -30,10 +30,16 @@ I’m particularly interested in:
 
 ---
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
 ### 🛠️ Languages:
-Python | Java | C | JavaScript / TypeScript | SQL | Go |
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 
 ### ⚙️ Frameworks & Libraries:
 Django | Flask | Angular | Node.js | Spring | Bootstrap | .NET Entity Framework 
